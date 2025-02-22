@@ -1,4 +1,4 @@
-# Panduan Transfer Proyek Laravel ke Laptop Lain
+# Panduan Install Belibang-Project Laptop Lain
 
 Berikut adalah langkah-langkah untuk mentransfer proyek Laravel ke perangkat lain:
 
